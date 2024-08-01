@@ -1,0 +1,26 @@
+id: ad30069d-14c0-4f32-be1f-ca8ffb888505
+name: Mark Gordon
+given_name: Mark
+family_name: Gordon
+birth_date: 
+image: https://governor.wyo.gov/assets/markgordon-B8-zFG2R.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2019-01-07'
+  end_date: '2027-01-04'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:wy/government
+offices:
+- classification: capitol
+  address: State Capitol; 200 West 24th Street; Cheyenne, WY 82002
+  voice: 307-777-7434
+  fax: 307-632-3909
+links:
+- url: https://governor.wyo.gov/
+- url: 
+  note: 
+ids:
+  twitter: 
+sources: https://governor.wyo.gov/
+- url: 

@@ -1,0 +1,26 @@
+id: 5dc9c8b5-9a53-416d-8bdf-3c67a69ac2f9
+name: Phil Scott
+given_name: Phil
+family_name: Scott
+birth_date: 
+image: https://www.oregon.gov/gov/headshots/meet-tina-image-2000px.jpg
+party:
+- name: Republican
+roles:
+- start_date: '2017-01-05'
+  end_date: '2017-01-05'
+  type: governor
+  jurisdiction: ocd-jurisdiction/country:us/state:vt/government
+offices:
+- classification: capitol
+  address: Office of Governor Phil Scott; 109 State Stree, Pavilion Montpelier, VT 05609
+  voice: 802-828-3333
+  fax: 802-828-3333
+links:
+- url: https://governor.vermont.gov/
+- url: 
+  note: 
+ids:
+  twitter: 
+sources: https://governor.vermont.gov/
+- url: 
